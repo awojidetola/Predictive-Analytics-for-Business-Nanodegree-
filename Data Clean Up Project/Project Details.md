@@ -30,21 +30,5 @@ Total Families
 
 This dataset will be your training set to help you build a regression model in order to predict sales in the Practice Project in the next lesson. Every row should have sales data because we're trying to predict sales.
 
-Notes
-
-You should be consolidating the data at the city level and not at the store level. We only have data at the city wide level so any analysis at the store level will not be sufficient to complete this analysis.
-
-We simply need to focus on cleaning up and blending the data together in this step.
-
-If you’ve done everything correctly, the sum for each of the above columns should be:
-
-Census Population: 213,862
-Total Pawdacity Sales: 3,773,304
-Households with Under 18: 34,064
-Land Area: 33,071
-Population Density: 63
-Total Families: 62,653
-with 11 rows of data
-
 Step 3: Dealing with Outliers
 Once you have created the dataset, look for outliers and figure out how deal with your outliers. Use the IQR method to determine if there are outlier cities for each of the variables and then justify which city that has at least one outlier value should be removed.
