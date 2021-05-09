@@ -1,2 +1,2 @@
-# Data Cleaning Udacity Project
+# Udacity Project
 Udacity Predictive Analytics for Business Projects
