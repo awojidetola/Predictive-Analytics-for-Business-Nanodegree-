@@ -7,4 +7,8 @@ This repository contains some of the projects under the Predictive Analytics for
 + Segmentation: Applies Segmentation and Clustering to determine which countries are similar to USA based on Education,Economic and Environmental Factors
 + Combining Predictive Techiniques : In this project, Time Series Analysis, Clustering Analysis and Classification Model is applied to predict the store cluster of a new set of stores as well as determine the expected produce sales in the following year.
 
+
+![image](https://user-images.githubusercontent.com/49078266/175665481-d53801c4-3ea3-4ed6-b78d-4c69508a3b18.png)
+
+
 https://confirm.udacity.com/WFG3KFZ3
